@@ -1,0 +1,8 @@
+{
+    "app_id": "drealmapp-0-grdmg",
+    "config_version": 20210101,
+    "name": "DRealmApp-0",
+    "location": "US-VA",
+    "deployment_model": "LOCAL",
+    "environment": "testing"
+}
