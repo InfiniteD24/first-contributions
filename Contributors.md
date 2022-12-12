@@ -2312,6 +2312,7 @@
 - [Connor Doherty](https://github.com/connord96)
 - [Kavita Vaishnaw](https://github.com/kavita-v)
 - [Aditya Kshirsagar](https://github.com/ad17ya)
+- [Darius Wright](https://github.com/InfiniteD24)
 - [Zowie](https://github.com/Zowie0122)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [Mohammad Moustafa](https://github.com/mohammadmoustafa)
